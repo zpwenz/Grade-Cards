@@ -1,27 +1,27 @@
 Topic,Progress,Subject
-Empowered Learner,4000,Engineering/CS
-Digital Citizen ,0,Engineering/CS
-Knowledge Constructor,3000,Engineering/CS
-Innovative Designer,4000,Engineering/CS
-Computational Thinker,5000,Engineering/CS
-Creative Communicator,4000,Engineering/CS
-Global Collabortator,3000,Engineering/CS
-Seeing Structure In Expressions,30000,Math
-Arithmetic With Polynomials And Rational Expressions,2000,Math
-Creating Equations,3000,Math
-Reasoning With Equations And Inequalities,4000,Math
-Interpreting Functions,3000,Math
-Building Functions,4000,Math
-"Linear, Quadratic, And Exponential Models",3000,Math
-Interpreting Categorical And Quantitative Data,3000,Math
-Measurments,50000,Science
-Scientific Process,5000,Science
-Visualizing Results,30000,Science
-Scientific Reasoning,4000,Science
-Experimental Design,3000,Science
-Reading,3000,English
-Comprehension,2000,English
-Persuasive Writing,1000,English
-Presentation skills,2000,English
-Media Literacy,10000,English
-Public Speaking,1000,English
+Empowered Learner,4,Engineering/CS
+Digital Citizen ,3,Engineering/CS
+Knowledge Constructor,3,Engineering/CS
+Innovative Designer,4,Engineering/CS
+Computational Thinker,5,Engineering/CS
+Creative Communicator,4,Engineering/CS
+Global Collabortator,3,Engineering/CS
+Seeing Structure In Expressions,3,Math
+Arithmetic With Polynomials And Rational Expressions,2,Math
+Creating Equations,3,Math
+Reasoning With Equations And Inequalities,4,Math
+Interpreting Functions,3,Math
+Building Functions,4,Math
+"Linear, Quadratic, And Exponential Models",3,Math
+Interpreting Categorical And Quantitative Data,3,Math
+Measurments,5,Science
+Scientific Process,5,Science
+Visualizing Results,3,Science
+Scientific Reasoning,4,Science
+Experimental Design,3,Science
+Reading,3,English
+Comprehension,2,English
+Persuasive Writing,1,English
+Presentation skills,2,English
+Media Literacy,1,English
+Public Speaking,1,English
